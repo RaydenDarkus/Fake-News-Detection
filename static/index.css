@@ -1,0 +1,54 @@
+body{
+    background: #606c88;  
+    background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);
+    background: linear-gradient(to right, #3f4c6b, #606c88);
+}
+
+/* .content{
+    margin-left:200px;
+   margin-top:150px;
+} */
+.text-center{
+    margin-bottom: 95px;
+    color:ghostwhite;
+}
+.area{
+    background-color: black;
+    color:white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px
+}
+h3{
+    color:bisque;
+} 
+p{
+    height:50px;
+    inline-size: 1100px;
+    padding:0px;
+    margin:0px;
+} 
+
+.result {
+    height: 100px;
+    font-size: 40px;
+}
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*
+.footer{
+    margin:0px;
+    padding:0px;
+    margin-left:95px;
+}
+h2{
+    text-align: center;
+    color:black;
+}*/
+a{
+    color:azure;
+}
